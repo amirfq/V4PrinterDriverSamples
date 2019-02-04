@@ -1,0 +1,8 @@
+C:\Users\AmFar\source\repos\Windows-driver-samples-master\print\v4PrintDriverSamples\PrinterExtensionSample\PrinterExtensionLibrary\bin\Win10 Debug\Microsoft.Samples.Printing.PrinterExtensionLibrary.dll
+C:\Users\AmFar\source\repos\Windows-driver-samples-master\print\v4PrintDriverSamples\PrinterExtensionSample\PrinterExtensionLibrary\bin\Win10 Debug\Microsoft.Samples.Printing.PrinterExtensionLibrary.pdb
+C:\Users\AmFar\source\repos\Windows-driver-samples-master\print\v4PrintDriverSamples\PrinterExtensionSample\PrinterExtensionLibrary\obj\Win10 Debug\PrinterExtensionLibrary.csprojAssemblyReference.cache
+C:\Users\AmFar\source\repos\Windows-driver-samples-master\print\v4PrintDriverSamples\PrinterExtensionSample\PrinterExtensionLibrary\obj\Win10 Debug\Interop.PrinterExtensionLib.dll
+C:\Users\AmFar\source\repos\Windows-driver-samples-master\print\v4PrintDriverSamples\PrinterExtensionSample\PrinterExtensionLibrary\obj\Win10 Debug\PrinterExtensionLibrary.csproj.ResolveComReference.cache
+C:\Users\AmFar\source\repos\Windows-driver-samples-master\print\v4PrintDriverSamples\PrinterExtensionSample\PrinterExtensionLibrary\obj\Win10 Debug\PrinterExtensionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\AmFar\source\repos\Windows-driver-samples-master\print\v4PrintDriverSamples\PrinterExtensionSample\PrinterExtensionLibrary\obj\Win10 Debug\Microsoft.Samples.Printing.PrinterExtensionLibrary.dll
+C:\Users\AmFar\source\repos\Windows-driver-samples-master\print\v4PrintDriverSamples\PrinterExtensionSample\PrinterExtensionLibrary\obj\Win10 Debug\Microsoft.Samples.Printing.PrinterExtensionLibrary.pdb
